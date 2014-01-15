@@ -10,12 +10,12 @@
     - [resolved data](https://githu-com/angular-ui/ui-router/wiki/Nested-States-%26-Nested-Views#inherited-resolved-dependencies)
     - [abstract states](https://githu-com/angular-ui/ui-router/wiki/Nested-States-%26-Nested-Views#abstract-states)
 
-4. Granular view control with nested and named views [25 min):
+4. Granular view control with nested and named views:
     - [name matching views](https://githu-com/angular-ui/ui-router/wiki/Multiple-Named-Views#example---name-matching)
     - [absolute vs. relative naming](https://githu-com/angular-ui/ui-router/wiki/Multiple-Named-Views#view-names---relative-vs-absolute-names)
     - root template targeting
     
-5. UI Router is best for REST [25 min):
+5. UI Router is best for REST:
     - resolved dependencies allow for interaction with REST resources before controllers run
     - [state params for things like sorting, pagination, and filtering](https://githu-com/angular-ui/ui-router/wiki/Quick-Reference#stateparams-1)
     - interacting with ng-resource
