@@ -4,7 +4,7 @@
     - [ui-sref directive](https://githu-com/angular-ui/ui-router/wiki/Quick-Reference#ui-sref)
     - [rest and hateoas](http://spring.io/understanding/HATEOAS)
     
-2. Stay DRY - Nested States and Inheritance [25 min): 
+2. Stay DRY - Nested States and Inheritance: 
     - [nested states](https://githu-com/angular-ui/ui-router/wiki/Nested-States-%26-Nested-Views#methods-for-nesting-states)
     - [view hierarchy scope inheritance](https://githu-com/angular-ui/ui-router/wiki/Nested-States-%26-Nested-Views#methods-for-nesting-states)
     - [resolved data](https://githu-com/angular-ui/ui-router/wiki/Nested-States-%26-Nested-Views#inherited-resolved-dependencies)
